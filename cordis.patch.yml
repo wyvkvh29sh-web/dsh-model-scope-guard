@@ -1,0 +1,3 @@
+- insert:
+    - id: model-scope-guard
+      name: dsh-model-scope-guard
